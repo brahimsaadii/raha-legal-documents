@@ -8,31 +8,25 @@ Welcome to Raha! This Privacy Policy explains how we collect, use, disclose, and
 
 ### 2.1 Personal Information
 
-We collect the following types of personal information from users:
+We collect the following types of personal information from users solely for the purpose of account access and management:
 
 - **Full Name**: Required for user identification and verification.
 - **Email Address**: Used for communication purposes and account management.
 - **Phone Number**: Used for verification purposes and communication between homeowners and clients.
 - **Password**: Required to secure user accounts.
 - **Location Data**: Collected when users provide their property location.
-- **Transaction Data**: Details of bookings and payments made through the app.
 
-### 2.2 Non-Personal Information
+### 2.2 Data Use
 
-We may also collect non-personal information, which cannot be used to identify you, including but not limited to:
-
-- Device information
-- Log information
-- Usage data
-- Cookies and similar technologies
+We do not use personal data for marketing purposes or any other internal use beyond account management. We do not share this data with third-party services or use it for analytics.
 
 ## 3. How We Use Your Information
 
-We use the information we collect for the following purposes:
+We use the information we collect solely for the following purposes:
 
 ### 3.1 User Registration
 
-To create and manage user accounts.
+To create and manage user accounts, and to allow users to access their accounts.
 
 ### 3.2 Property Listings
 
@@ -46,40 +40,31 @@ To process bookings, communicate between homeowners and clients, and manage paym
 
 To respond to user inquiries and provide support services.
 
-### 3.5 Marketing Communications
-
-To send promotional and informational emails, newsletters, or other communications related to the app's services. Users have the option to opt-out of marketing communications.
-
-### 3.6 Compliance and Legal Obligations
+### 3.5 Compliance and Legal Obligations
 
 To comply with legal obligations, resolve disputes, and enforce our agreements.
 
 ## 4. How We Share Your Information
 
-### 4.1 Third-Party Service Providers
+### 4.1 No Third-Party Sharing
 
-We may share your information with third-party service providers who perform services on our behalf, such as payment processing and data analysis.
+We do not share your personal information with any third-party services. Your data is not used for marketing or analytics, and it is not sold or shared with external parties.
 
 ### 4.2 Legal Requirements
 
 We may disclose your information if required to do so by law or in response to valid requests by public authorities.
 
-### 4.3 Business Transfers
-
-In the event of a merger, acquisition, or asset transfer, your information may be transferred to the acquiring entity.
-
 ## 5. Security of Your Information
 
 ### 5.1 Security Measures
 
-We employ industry-standard security measures to protect your personal data from unauthorized access, alteration, disclosure, or destruction. This includes:
+We employ industry-standard security measures to protect your personal data, including:
 
-- **Encryption**: Data transmitted between users and Raha is encrypted using secure socket layer technology (SSL).
-- **Secure Storage**: Personal data is stored on secure servers with restricted access located in controlled facilities.
+- **Secure Storage**: Personal data is stored on private servers with restricted access to ensure its protection.
 
 ### 5.2 User Responsibilities
 
-Users are responsible for maintaining the confidentiality of their account login information. Users must not share their password with others and should take steps to protect their account from unauthorized access. Users should notify Raha immediately if they suspect any unauthorized use of their account or any other breach of security.
+Users are responsible for maintaining the confidentiality of their account login information. Users should not share their password with others and should take steps to protect their account from unauthorized access. Users should notify Raha immediately if they suspect any unauthorized use of their account or any other breach of security.
 
 ## 6. Your Data Protection Rights
 
@@ -103,11 +88,11 @@ You can withdraw your consent for the processing of personal data at any time by
 
 ### 7.1 Age Limitation
 
-Raha does not knowingly collect or solicit personal data from individuals under the age of 18. If we become aware that personal data has been collected from a minor without parental consent, steps will be taken to delete this information as soon as possible.
+Raha is intended for users who are 18 years of age or older. We do not knowingly collect or solicit personal data from individuals under the age of 18. If we become aware that personal data has been collected from a minor without parental consent, steps will be taken to delete this information as soon as possible.
 
 ## 8. Changes to This Privacy Policy
 
-Raha reserves the right to modify or update this Privacy Policy at any time. Any changes will be effective immediately upon posting on the App. It is your responsibility to review this policy periodically for updates. Continued use of the App after any modifications signify your acceptance of the updated Privacy Policy.
+Raha reserves the right to modify or update this Privacy Policy at any time. Any changes will be effective immediately upon posting on the App. It is your responsibility to review this policy periodically for updates. Continued use of the App after any modifications signifies your acceptance of the updated Privacy Policy.
 
 ## 9. Contact Information
 
